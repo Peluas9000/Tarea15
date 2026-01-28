@@ -1,6 +1,5 @@
 package implementacion;
 
-import java.sql.Connection;
 
 import dao.AlumnoDAO;
 	
